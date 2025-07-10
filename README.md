@@ -10,10 +10,10 @@ A powerful, open-source dApp for the Hedera ecosystem that enables users to appl
 
 ## ✨ Features
 
-- 🔗 **Seamless Wallet Integration** - Connect with HashPack and other Hedera wallets
+- 🔗 **Seamless Wallet Integration** - Connect with HashPack (other Hedera wallets coming soon)
 - 🖼️ **NFT Collection Support** - Works with all Hedera NFT collections
 - 🎨 **Custom Overlays** - Add your own artwork, logos, and accessories
-- 📱 **Mobile Responsive** - Full touch support for mobile devices
+- 📱 **Mobile Responsive** - Fully responsive for mobile devices
 - 🔄 **Real-time Preview** - See changes instantly as you customize
 - 💾 **High-Quality Export** - Download your creations in original resolution
 - 🎯 **Precision Controls** - Move, rotate, and resize with pixel-perfect accuracy
@@ -53,11 +53,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🏗️ Built by SLIME
 
-Created with ❤️ for the Hedera community by the team at SLIME.
+Built for the Hedera community with ❤️ by @builtbyslime
 
 - 🌐 **Website**: [Built by SLIME](https://github.com/Built-by-SLIME)
 - 💬 **Community**: Join our Discord for support and updates
-- 🐦 **Follow**: Stay updated on our latest projects
+- 🐦 **Follow**: @builtbyslime
 
 ---
 

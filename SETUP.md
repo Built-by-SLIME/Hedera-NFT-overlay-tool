@@ -79,7 +79,6 @@ const IPFS_GATEWAYS = [
 **Recommended IPFS Providers:**
 - [Pinata](https://pinata.cloud/) - Easy setup, generous free tier
 - [Lighthouse](https://lighthouse.storage/) - Hedera-friendly
-- [Infura](https://infura.io/) - Enterprise-grade
 
 #### Single Token ID Mode
 
