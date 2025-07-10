@@ -233,12 +233,12 @@ document.addEventListener('DOMContentLoaded', () => {
   async function initializeWalletConnect() {
     console.log('Starting WalletConnect initialization');
     try {
-      const projectId = '19f08313224ac846097e6a722ab078fc';
+      const projectId = 'YOUR_WALLETCONNECT_PROJECT_ID'; // Replace with your WalletConnect Project ID
       const metadata = {
-        name: 'Overlayz',
+        name: 'YOUR_APP_NAME',
         description: 'NFT Overlay Tool for Hedera',
-        url: 'https://overlayz.xyz',
-        icons: ['/assets/icon/Overlayz_App_Icon.png'],
+        url: 'https://your-domain.com',
+        icons: ['/assets/icon/your_app_icon.png'],
       };
 
       console.log('Creating DAppConnector instance');
@@ -949,13 +949,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         console.log(`Total NFTs fetched: ${allNFTs.length}`);
         
-        const wildTigers = allNFTs.filter(nft => nft.token_id === '0.0.6024491');
-        const fugitivesTeam = allNFTs.filter(nft => nft.token_id === '0.0.963963');
-        const emrakCubit = allNFTs.filter(nft => nft.token_id === '0.0.732384');
-        
-        console.log('Wild Tigers found:', wildTigers.length);
-        console.log('Fugitives Team found:', fugitivesTeam.length);
-        console.log('Emrak (Cubit) found:', emrakCubit.length);
+
         
         let hashinalCount = 0;
         for (const nft of allNFTs) {

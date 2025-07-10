@@ -1,68 +1,64 @@
-# Overlayz - Hedera NFT Overlay Tool
+# 🎨 Hedera NFT Overlay Tool
 
-Overlayz is a dApp for Hedera that allows users to apply overlays and accessories to their NFTs. It's designed to work within the HashPack wallet app and uses the Hedera Mirror Node API to fetch NFT data.
+> **Transform your NFTs with custom overlays, accessories, and effects**
 
-## How It Works
+A powerful, open-source dApp for the Hedera ecosystem that enables users to apply custom overlays and accessories to their NFTs. Built with modern web technologies and designed for seamless wallet integration.
 
-1. **Connect Wallet**: Connect your HashPack wallet to access your NFTs.
-2. **Select NFT**: View your collection and select an NFT to modify.
-3. **Apply Overlays**: Choose from various overlays.
-4. **Customize**: Move, rotate and resize the overlays to perfect the look.
-5. **Save**: Download the modified NFT image.
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Hedera](https://img.shields.io/badge/blockchain-Hedera-purple.svg)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)
 
-## Setup
+## ✨ Features
 
-1. **Clone the repository**
-   ```
-   git clone https://github.com/HeftySammich/Overlayz
-   ```
+- 🔗 **Seamless Wallet Integration** - Connect with HashPack and other Hedera wallets
+- 🖼️ **NFT Collection Support** - Works with all Hedera NFT collections
+- 🎨 **Custom Overlays** - Add your own artwork, logos, and accessories
+- 📱 **Mobile Responsive** - Full touch support for mobile devices
+- 🔄 **Real-time Preview** - See changes instantly as you customize
+- 💾 **High-Quality Export** - Download your creations in original resolution
+- 🎯 **Precision Controls** - Move, rotate, and resize with pixel-perfect accuracy
 
-2. **Install dependencies**
-   ```
-   npm install
-   ```
+## 🚀 Quick Start
 
-3. **Add overlay images**
-   - Place your overlay images in the appropriate folders:
-     - `/assets/arts/`
-     - `/assets/fonts`
-     - `/assets/icon/`
-    
-4. **Configure for your project**
-   - Replace 'const projectId' in main.js with your own Hedera Project ID
-   - Replace 'const metadata' in main.js with your project details
-   - Replace contents of style.css and index.html with your details
-  
-5. **Start the development server**
-   ```
-   npm run dev
-   ```
+Ready to get started? Check out our comprehensive guides:
 
-6. **Build for production**
-   ```
-   npm run build
-   ```
+- 📖 **[Setup Guide](SETUP.md)** - Complete installation and configuration
+- 🚀 **[Deployment Guide](DEPLOYMENT.md)** - Deploy your own instance
+- 🔧 **[Configuration Options](SETUP.md#configuration)** - Customize for your project
 
-## Technical Stack
+## 🛠️ Technical Stack
 
-- **Frontend**: HTML, CSS, JavaScript (vanilla)
-- **Wallet Integration**: HashPack via HashConnect
-- **Blockchain**: Hedera (HBAR)
-- **API**: Hedera Mirror Node
-- **Image Manipulation**: Konva
+- **Frontend**: Vanilla JavaScript, HTML5, CSS3
+- **Canvas**: Konva.js for image manipulation
+- **Wallet**: Hedera Wallet Connect integration
+- **Blockchain**: Hedera Hashgraph
+- **Build Tool**: Vite
+- **Deployment**: Vercel (recommended)
 
-## Features
+## 🎯 Use Cases
 
-- HashPack wallet integration
-- Wallet Connect integration
-- Built for HashPack's dApp browser 
+- **NFT Projects** - Add branded overlays to your collection
+- **Community Tools** - Let holders customize their NFTs
+- **Marketing** - Create promotional versions of NFTs
+- **Events** - Add event-specific accessories
+- **Single Collection Focus** - Configure for specific token IDs
 
-## License
+## 🤝 Contributing
 
-- Overlayz is a free tool. All files, unless explicitly stated otherwise, are public domain.
+We welcome contributions from the Hedera community! Whether you're fixing bugs, adding features, or improving documentation, your help makes this tool better for everyone.
 
-## Credits
+## 📄 License
 
-- Built by SLIME
-- Created for the Hedera community
-- Shout out to Spagħettaaay.ħbar whose initial idea brought this to life
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🏗️ Built by SLIME
+
+Created with ❤️ for the Hedera community by the team at SLIME.
+
+- 🌐 **Website**: [Built by SLIME](https://github.com/Built-by-SLIME)
+- 💬 **Community**: Join our Discord for support and updates
+- 🐦 **Follow**: Stay updated on our latest projects
+
+---
+
+*Transform your NFTs. Empower your community. Build on Hedera.*
