@@ -57,7 +57,6 @@ Built for the Hedera community with ❤️ by @builtbyslime
 
 - 𝕏  **Lead Dev**: @heftysammich 
 - 𝕏  **Frontend Dev**: @Be3bZilla
-- 𝕏  **Art**: @bngjs_
   
 ---
 
