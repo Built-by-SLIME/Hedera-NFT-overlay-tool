@@ -210,8 +210,7 @@ main #wallet-status {
 
 .nft-section h2,
 .overlay-section h2 {
-  font-family: cc-phat-boi-bold,
-    sans-serif;
+  font-family: 'Arial Black', 'Helvetica Bold', sans-serif; /* Replace with your Adobe Font */
   font-style: normal;
   font-weight: 700;
   font-size: 4rem;
