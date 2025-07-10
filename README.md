@@ -51,14 +51,14 @@ We welcome contributions from the Hedera community! Whether you're fixing bugs, 
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🏗️ Built by SLIME
+## 🏗️ Acknowledgments
 
 Built for the Hedera community with ❤️ by @builtbyslime
 
-- 🌐 **Website**: [Built by SLIME](https://github.com/Built-by-SLIME)
-- 💬 **Community**: Join our Discord for support and updates
-- 🐦 **Follow**: @builtbyslime
-
+- 𝕏  **Lead Dev**: @heftysammich 
+- 𝕏  **Frontend Dev**: @Be3bZilla
+- 𝕏  **Art**: @bngjs_
+  
 ---
 
-*Transform your NFTs. Empower your community. Build on Hedera.*
+⭐ If this bot helps your community, please give it a star!
